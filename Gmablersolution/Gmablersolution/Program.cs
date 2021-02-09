@@ -41,6 +41,7 @@ namespace Gmablersolution
 
         {
             winOrloss();
+            resignDay();
             for (int i = 1; i < stake; i++)
             {
                 if (stake == stake / 2)
@@ -54,7 +55,8 @@ namespace Gmablersolution
             for (int day =1; day<20; day++)
             {
                 winOrloss();
-                Console.WriteLine("Gambler won: " + day);
+                Console.WriteLine("Gambler won" );
+                Console.WriteLine("Gambler loss");
 
             }
         }
