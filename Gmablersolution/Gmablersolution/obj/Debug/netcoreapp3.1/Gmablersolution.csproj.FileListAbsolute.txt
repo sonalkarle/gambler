@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\gmablersolution\Gmablersolution\Gmablersolution\bin\Debug\netcoreapp3.1\Gmablersolution.exe
+C:\Users\User\source\repos\gmablersolution\Gmablersolution\Gmablersolution\bin\Debug\netcoreapp3.1\Gmablersolution.deps.json
+C:\Users\User\source\repos\gmablersolution\Gmablersolution\Gmablersolution\bin\Debug\netcoreapp3.1\Gmablersolution.runtimeconfig.json
+C:\Users\User\source\repos\gmablersolution\Gmablersolution\Gmablersolution\bin\Debug\netcoreapp3.1\Gmablersolution.runtimeconfig.dev.json
+C:\Users\User\source\repos\gmablersolution\Gmablersolution\Gmablersolution\bin\Debug\netcoreapp3.1\Gmablersolution.dll
+C:\Users\User\source\repos\gmablersolution\Gmablersolution\Gmablersolution\bin\Debug\netcoreapp3.1\Gmablersolution.pdb
+C:\Users\User\source\repos\gmablersolution\Gmablersolution\Gmablersolution\obj\Debug\netcoreapp3.1\Gmablersolution.csprojAssemblyReference.cache
+C:\Users\User\source\repos\gmablersolution\Gmablersolution\Gmablersolution\obj\Debug\netcoreapp3.1\Gmablersolution.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\gmablersolution\Gmablersolution\Gmablersolution\obj\Debug\netcoreapp3.1\Gmablersolution.AssemblyInfo.cs
+C:\Users\User\source\repos\gmablersolution\Gmablersolution\Gmablersolution\obj\Debug\netcoreapp3.1\Gmablersolution.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\gmablersolution\Gmablersolution\Gmablersolution\obj\Debug\netcoreapp3.1\Gmablersolution.dll
+C:\Users\User\source\repos\gmablersolution\Gmablersolution\Gmablersolution\obj\Debug\netcoreapp3.1\Gmablersolution.pdb
+C:\Users\User\source\repos\gmablersolution\Gmablersolution\Gmablersolution\obj\Debug\netcoreapp3.1\Gmablersolution.genruntimeconfig.cache
