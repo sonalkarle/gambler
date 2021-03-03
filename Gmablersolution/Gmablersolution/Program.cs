@@ -1,27 +1,27 @@
 ﻿using System;
 
 namespace Gmablersolution
-{
-
-
+{ 
     class   gmabler
     {
+        //Constant variable
         const int stake = 100;
         const int count = 0;
                 
         public static void gamblermoney()
         {
-            const int stake = 100;
+            //gambler money
+            int stake = 100;
             int bet = 1;
             
         }
        public static void winOrloss()
         {
-            
+            //Random function 
             Random random = new Random();
             int win = random.Next(0, 2);
             int result;
-            
+            //If gmabler win 1 rs added to gambler money
             if (win == 1)
             {
                 result = (stake + 1);
@@ -30,6 +30,7 @@ namespace Gmablersolution
                 
 
             }
+            //If loose 1 rs is loose from gambler money
             else if (win == 0 )
             {
                 result = (stake - 1);
@@ -40,6 +41,7 @@ namespace Gmablersolution
         public static void resignDay()
 
         {
+            //Check until gambler money reached for day
             winOrloss();
             resignDay();
             for (int i = 1; i < stake; i++)
@@ -52,9 +54,11 @@ namespace Gmablersolution
         }
         public static void Daytarck()
         {
+            //Checking track of 20 days
             for (int day =1; day<20; day++)
             {
-                winOrloss();
+               
+                resignDay();
                 Console.WriteLine("Gambler won" );
                 Console.WriteLine("Gambler loss");
 
@@ -72,9 +76,7 @@ namespace Gmablersolution
             gmabler.resignDay();
             gmabler.Daytarck();
             
-            
-            
-
+          
         }
     }
 }

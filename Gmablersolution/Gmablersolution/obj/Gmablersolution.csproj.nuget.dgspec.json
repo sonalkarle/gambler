@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\gmablersolution\\Gmablersolution\\Gmablersolution\\Gmablersolution.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Workshop\\gmablersolution\\Gmablersolution\\Gmablersolution\\Gmablersolution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\gmablersolution\\Gmablersolution\\Gmablersolution\\Gmablersolution.csproj": {
+    "C:\\Users\\User\\source\\repos\\Workshop\\gmablersolution\\Gmablersolution\\Gmablersolution\\Gmablersolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\gmablersolution\\Gmablersolution\\Gmablersolution\\Gmablersolution.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Workshop\\gmablersolution\\Gmablersolution\\Gmablersolution\\Gmablersolution.csproj",
         "projectName": "Gmablersolution",
-        "projectPath": "C:\\Users\\User\\source\\repos\\gmablersolution\\Gmablersolution\\Gmablersolution\\Gmablersolution.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Workshop\\gmablersolution\\Gmablersolution\\Gmablersolution\\Gmablersolution.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\gmablersolution\\Gmablersolution\\Gmablersolution\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Workshop\\gmablersolution\\Gmablersolution\\Gmablersolution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
