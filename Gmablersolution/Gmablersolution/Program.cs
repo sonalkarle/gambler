@@ -11,13 +11,14 @@ namespace Gmablersolution
                 
         public static void gamblermoney()
         {
+            //Gambler money has intialise
             const int stake = 100;
             int bet = 1;
             
         }
        public static void winOrloss()
         {
-            
+            //Check wheather gambler win or loss
             Random random = new Random();
             int win = random.Next(0, 2);
             int result;
@@ -37,30 +38,7 @@ namespace Gmablersolution
             }
         }
 
-        public static void resignDay()
-
-        {
-            winOrloss();
-            resignDay();
-            for (int i = 1; i < stake; i++)
-            {
-                if (stake == stake / 2)
-                {
-                    Console.WriteLine("Gambler should resgin for day");
-                }
-            }
-        }
-        public static void Daytarck()
-        {
-            for (int day =1; day<20; day++)
-            {
-                winOrloss();
-                Console.WriteLine("Gambler won" );
-                Console.WriteLine("Gambler loss");
-
-            }
-        }
-
+       
     }
     class Program
     {
@@ -69,8 +47,7 @@ namespace Gmablersolution
             Console.WriteLine("Welcome to gambling solution");
             gmabler.gamblermoney();
             gmabler.winOrloss();
-            gmabler.resignDay();
-            gmabler.Daytarck();
+           
             
             
             
