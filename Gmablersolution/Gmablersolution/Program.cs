@@ -16,16 +16,17 @@ namespace Gmablersolution
 
         }
         class Program
-    {
-        static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to gambling solution");
-            gmabler.gamblermoney();
-           
-            
-            
-            
+            static void Main(string[] args)
+            {
+                Console.WriteLine("Welcome to gambling solution");
+                gmabler.gamblermoney();
 
+
+
+
+
+            }
         }
     }
 }
